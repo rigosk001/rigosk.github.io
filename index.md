@@ -4,7 +4,7 @@ layout: home
 ---
 
 
-<a href="https://github.com/lorepirri/cayman-blog" class="btn">View on GitHub</a>
+<a href="https://github.com/lorepirri/cayman-blog" class="btn">View on Git44Hub</a>
 ## Welcome to GitHub Pages4
 
 You can use the [editor on GitHub](https://github.com/rigosk/rigosk.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
