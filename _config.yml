@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 
 title: 見ぬが花
-description:  Not seeing is a flower \n minu ga hana
+description:  "Not seeing is a flower"
 
 show_downloads: "true" # ["true" or "false" to indicate whether to provide a download URL]
 #google_analytics: #[Your Google Analytics tracking ID]
