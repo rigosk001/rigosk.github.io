@@ -1,6 +1,5 @@
 ---
-layout: default_buttons
-
+layout: default2
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
