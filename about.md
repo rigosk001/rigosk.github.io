@@ -11,12 +11,24 @@ You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/
 #content {
   max-width: 100%;
 }
+  
+  .iframe-container {
+  overflow: hidden;
+  // Calculated from the aspect ration of the content (in case of 16:9 it is 9/16= 0.5625)
+  padding-top: 56.25%;
+  position: relative;
+}
+ 
+.iframe-container iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
+}
 </style>
-<script type="text/javascript">
-    $('#myIframe').load(function() {
-  $(this).height( $(this)[0].contentWindow.document.body.scrollHeight + 24);
-});
-</script>
+<div class="iframe-container">
 <iframe id="myIframe" scrolling="no" style="border:none;" seamless="seamless" src="https://rigosk.github.io/salonika-hours"  width="100%" height="100%" ></iframe>
-
+<div>
 [back](./)
