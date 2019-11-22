@@ -30,5 +30,5 @@ You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/
 </style>
 <div class="iframe-container">
 <iframe id="myIframe" scrolling="no" style="border:none;" seamless="seamless" src="https://rigosk.github.io/salonika-hours"  width="100%" height="100%" ></iframe>
-<div>
+</div>
 [back](./)
