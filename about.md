@@ -17,6 +17,6 @@ You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/
   $(this).height( $(this)[0].contentWindow.document.body.scrollHeight + 24);
 });
 </script>
-<iframe id="myIframe" scrolling="no" style="border:none;" seamless="seamless" src="https://rigosk.github.io/salonika-hours"  width="100%" height="100%" onload="ajustHeight()"></iframe>
+<iframe id="myIframe" scrolling="no" style="border:none;" seamless="seamless" src="https://rigosk.github.io/salonika-hours"  width="100%" height="100%" ></iframe>
 
 [back](./)
