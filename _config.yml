@@ -3,5 +3,5 @@ theme: jekyll-theme-cayman
 title: 見ぬが花
 description:  minu ga hana - Not seeing is a flower
 
-show_downloads: "true" # ["true" or "false" to indicate whether to provide a download URL]
+show_downloads: "false" # ["true" or "false" to indicate whether to provide a download URL]
 google_analytics: UA-153177304-1 #[Your Google Analytics tracking ID]
