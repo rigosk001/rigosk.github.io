@@ -8,5 +8,6 @@ This is the _Cayman Blog_ Jekyll theme. You can find out more info about customi
 
 You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
 
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://rigosk.github.io/salonika-hours" height="525" width="100%"></iframe>
 
 [back](./)
