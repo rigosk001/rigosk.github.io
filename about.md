@@ -12,6 +12,6 @@ You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/
   max-width: 100%;
 }
 </style>
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://rigosk.github.io/salonika-hours" height="-webkit-fill-available" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://rigosk.github.io/salonika-hours"  width="100%"></iframe>
 
 [back](./)
