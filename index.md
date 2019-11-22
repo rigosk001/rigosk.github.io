@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "my title"
+title: "minu ga hana"
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
