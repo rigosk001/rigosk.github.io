@@ -16,6 +16,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 Timetable for each period is can be found [here](./timetables.md)
 
 
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=GiidOuU6liA " frameborder="0" allowfullscreen></iframe>
+
+
 https://www.youtube.com/watch?v=GiidOuU6liA 
 
 ## Header 2
